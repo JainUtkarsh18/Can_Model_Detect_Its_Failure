@@ -1,4 +1,3 @@
-
 # Can a Model Detect Its Own Failure?
 ## A Benchmark of Confidence, Uncertainty, Calibration, and Error Prediction
 
